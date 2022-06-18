@@ -32,7 +32,7 @@ window.addEventListener('load',init);
 let textone = document.querySelector('.textone').querySelector('h1');
       let text = document.querySelector('.text').querySelector('h1');
       setTimeout(function(){
-        textone.innerHTML = 'seven、海灵，生日快乐';
+        textone.innerHTML = '海灵，生日快乐！！！';
           textone.style.color = '#E8F9FD';
           textone.style.fontFamily = '楷体'
           text.innerHTML = '';
